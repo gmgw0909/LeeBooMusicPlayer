@@ -2,6 +2,7 @@ package io.github.ryanhoo.music.data.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
+
 import com.litesuits.orm.db.annotation.*;
 import com.litesuits.orm.db.enums.AssignType;
 import com.litesuits.orm.db.enums.Relation;
@@ -19,6 +20,8 @@ import java.util.List;
  */
 @Table("folder")
 public class Folder implements Parcelable {
+
+    public String haha;
 
     public static final String COLUMN_NAME = "name";
 
