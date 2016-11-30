@@ -10,7 +10,7 @@ import io.github.ryanhoo.music.ui.base.BaseFragment;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/1/16
  * Time: 9:59 PM
  * Desc: SettingsFragment

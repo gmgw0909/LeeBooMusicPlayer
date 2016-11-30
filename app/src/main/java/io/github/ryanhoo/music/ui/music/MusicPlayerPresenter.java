@@ -20,7 +20,7 @@ import rx.subscriptions.CompositeSubscription;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/12/16
  * Time: 8:30 AM
  * Desc: MusicPlayerPresenter

@@ -4,7 +4,7 @@ import io.github.ryanhoo.music.data.model.PlayList;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/14/16
  * Time: 1:08 AM
  * Desc: PlayListUpdatedEvent

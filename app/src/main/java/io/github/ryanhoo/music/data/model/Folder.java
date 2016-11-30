@@ -12,11 +12,10 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 7:19 PM
- * Desc: Folder
+ * 作者: LeeBoo
+ * 日期: 9/3/16
+ * 时间: 7:19 PM
+ * 描述: 暂无
  */
 @Table("folder")
 public class Folder implements Parcelable {

@@ -10,7 +10,7 @@ import io.github.ryanhoo.music.ui.base.BaseView;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/12/16
  * Time: 8:27 AM
  * Desc: MusicPlayerContract

@@ -6,7 +6,7 @@ import android.support.annotation.FloatRange;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/1/16
  * Time: 10:13 PM
  * Desc: GradientUtils

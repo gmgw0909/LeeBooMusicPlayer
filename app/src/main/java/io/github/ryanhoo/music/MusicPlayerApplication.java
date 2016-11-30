@@ -5,7 +5,7 @@ import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 8/31/16
  * Time: 9:32 PM
  * Desc: MusicPlayerApplication

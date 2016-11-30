@@ -10,7 +10,7 @@ import io.github.ryanhoo.music.ui.widget.CharacterDrawable;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/4/16
  * Time: 4:08 PM
  * Desc: ViewUtils

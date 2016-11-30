@@ -13,7 +13,7 @@ import io.github.ryanhoo.music.R;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 7/16/16
  * Time: 6:51 AM
  * Desc: CharacterView

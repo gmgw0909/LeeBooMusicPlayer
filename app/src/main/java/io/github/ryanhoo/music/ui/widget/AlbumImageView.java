@@ -17,7 +17,7 @@ import io.github.ryanhoo.music.BuildConfig;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/6/16
  * Time: 11:39 PM
  * Desc: AlbumImageView

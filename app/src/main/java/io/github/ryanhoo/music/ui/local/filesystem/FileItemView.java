@@ -18,7 +18,7 @@ import java.util.Locale;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/3/16
  * Time: 11:03 PM
  * Desc: FilItemView

@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/5/16
  * Time: 5:57 PM
  * Desc: Player

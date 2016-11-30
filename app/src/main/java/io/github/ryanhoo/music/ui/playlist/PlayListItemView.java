@@ -14,7 +14,7 @@ import io.github.ryanhoo.music.utils.ViewUtils;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/9/16
  * Time: 10:03 PM
  * Desc: PlayListItemView

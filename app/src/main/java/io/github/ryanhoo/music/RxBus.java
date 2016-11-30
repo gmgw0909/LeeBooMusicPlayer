@@ -7,7 +7,7 @@ import rx.subjects.PublishSubject;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 6/25/16
  * Time: 3:01 PM
  * Desc: An EventBus powered by RxJava.

@@ -9,11 +9,10 @@ import java.io.File;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/14/16
  * Time: 8:42 PM
  * Desc: BitmapUtils
- * TODO To be optimized
  */
 public class AlbumUtils {
 

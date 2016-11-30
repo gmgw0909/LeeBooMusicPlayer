@@ -7,7 +7,7 @@ import io.github.ryanhoo.music.ui.base.BaseFragment;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 7/8/16
  * Time: 9:24 PM
  * Desc: MainTabAdapter

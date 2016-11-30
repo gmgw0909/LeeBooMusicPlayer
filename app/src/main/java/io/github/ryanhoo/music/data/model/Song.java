@@ -9,7 +9,7 @@ import com.litesuits.orm.db.enums.AssignType;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: 1003220931@qq.com
  * Date: 9/2/16
  * Time: 4:01 PM
  * Desc: Song
