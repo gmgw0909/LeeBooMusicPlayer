@@ -21,8 +21,6 @@ import java.util.List;
 @Table("folder")
 public class Folder implements Parcelable {
 
-    public String haha;
-
     public static final String COLUMN_NAME = "name";
 
     @PrimaryKey(AssignType.AUTO_INCREMENT)
